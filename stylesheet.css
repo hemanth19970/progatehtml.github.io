@@ -1,0 +1,11 @@
+body{
+  background-color: grey;
+}
+.title{
+  color:#02ccba;
+}
+p{
+  color:red ;
+  width: 200px;
+  height: 20px;
+}
